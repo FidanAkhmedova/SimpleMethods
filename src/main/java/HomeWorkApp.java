@@ -9,6 +9,7 @@ public class HomeWorkApp {
     }
 
     public static void printThreeWords() {
+        //comment
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple\n");
